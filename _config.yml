@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets\SfEDofmI_400x400.jpg
+avatar: https://twitter.com/_l0gzzz/photo
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -202,3 +202,12 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+flexible_include:
+  die_on_file_error: false
+  die_on_path_denied: false
+  die_on_run_error: false
+  die_on_other_error: true
+
+plugins:
+  - flexible_include
