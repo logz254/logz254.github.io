@@ -16,7 +16,7 @@ timezone: Africa/Nairobi
 
 title: Logzzz # the main title
 
-tagline: CyberSec Researcher # it will display as the sub-title
+tagline: CyberSec Researcher | CTF Player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
