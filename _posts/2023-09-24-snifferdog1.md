@@ -3,6 +3,7 @@ layout: post
 title: SnifferDog1
 date: 2023-09-24 16:15 +0300
 categories: [SheHacks Intervarsity CTF, SnifferDog1]
+tags: [forensics,ctf,wireshark,shehacks]
 ---
 ## Question
 How many packets in total passed through port 445 shctf{Ans}

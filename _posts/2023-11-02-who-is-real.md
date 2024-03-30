@@ -3,6 +3,7 @@ layout: post
 title: Who Is Real
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, Who Is Real]
+tags: [huntressctf,ctf,web]
 ---
 ## Question
 Author: @JohnHammond

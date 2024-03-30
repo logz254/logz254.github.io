@@ -3,6 +3,7 @@ layout: post
 title: TheReturnoftheYeti
 date: 2024-01-11 22:53 +0300
 categories: [TryHackMe, TheReturnoftheYeti]
+tags: [aoc,tryhackme,wirehack,forensics,aircrack-ng,wpa,cyberchef,pyrdp-player]
 ---
 ## Introduction
 Every year, TryHackMe hosts Advent of Cyber event. During this event, several fields of cybersecurity are covered through solving tasks. The event is aimed at beginners though anyone with an interest in cybersecurity can learn and benefit immensely from it.

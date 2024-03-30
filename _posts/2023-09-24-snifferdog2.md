@@ -3,6 +3,7 @@ layout: post
 title: SnifferDog2
 date: 2023-09-24 16:15 +0300
 categories: [SheHacks Intervarsity CTF, SnifferDog2]
+tags: [forensics,ctf,wireshark,shehacks]
 ---
 ## Question
 What is the 6th disallowed item listed in http://192.168.56.103:8081/robots.txt?

@@ -3,6 +3,7 @@ layout: post
 title: Land Before Time
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, Land Before Time]
+tags: [huntressctf,ctf,isteg]
 ---
 ## Question
 Author: @proslasher

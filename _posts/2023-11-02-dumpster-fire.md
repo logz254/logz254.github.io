@@ -3,6 +3,7 @@ layout: post
 title: Dumpster Fire
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, Dumpster Fire]
+tags: [huntressctf,ctf,firefox]
 ---
 ## Question
 Author: @JohnHammond

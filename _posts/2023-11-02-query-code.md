@@ -3,6 +3,7 @@ layout: post
 title: Query Code
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, Query Code]
+tags: [huntressctf,ctf]
 ---
 ## Question
 Author: @JohnHammond

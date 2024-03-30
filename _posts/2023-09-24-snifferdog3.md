@@ -3,6 +3,7 @@ layout: post
 title: SnifferDog3
 date: 2023-09-24 16:15 +0300
 categories: [SheHacks Intervarsity CTF, SnifferDog3]
+tags: [forensics,ctf,wireshark,shehacks]
 ---
 ## Question
 What version of Jenkins is running on 192.168.56.103? shctf{VersionOnly}

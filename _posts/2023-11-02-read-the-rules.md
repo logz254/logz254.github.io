@@ -3,6 +3,7 @@ layout: post
 title: Read The Rules
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, Read The Rules]
+tags: [huntressctf,ctf]
 ---
 ## Question
 Author: @JohnHammond#6971

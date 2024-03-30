@@ -3,6 +3,7 @@ layout: post
 title: Technical Support
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, Technical Support]
+tags: [huntressctf,ctf,discord]
 ---
 ## Question
 Author: @JohnHammond

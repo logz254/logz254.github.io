@@ -3,6 +3,7 @@ layout: post
 title: M Three Sixty Five
 date: 2023-11-02 14:42 +0300
 categories: [HuntressCTF, M Three Sixty Five]
+tags: [huntressctf,ctf,AADInternals]
 ---
 This challenge group comprises of 4 challenges. The 4 challenges are in this order:
 1. M Three Sixty Five - General Info
