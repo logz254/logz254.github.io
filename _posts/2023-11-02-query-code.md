@@ -8,7 +8,7 @@ categories: [HuntressCTF, Query Code]
 Author: @JohnHammond
 
 What's this?
-File:[query_code](/assets\CTFs-main\HuntressCTF\Query Code\query_code)
+File:[query_code](/assets/CTFs-main/HuntressCTF/Query Code/query_code)
 ## Solution
 You are presented with a QR code. Scan it and you get the flag.
 

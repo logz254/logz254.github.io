@@ -23,12 +23,12 @@ From the AADInternals Documentation:<br />
 
 Get-AADIntTenantDetails (A)
 
-\# Get tenant details<br />
+/# Get tenant details<br />
   Get-AADIntTenantDetails
 "<br />
 
 Run the command after connecting. Scroll to where the street address is displayed and you get the flag
-![Alt text](/assets\CTFs-main\HuntressCTF\M Three Sixty Five\General_info_flag.png)
+![Alt text](/assets/CTFs-main/HuntressCTF/M Three Sixty Five/General_info_flag.png)
 
 
 flag{dd7bf230fde8d4836917806aff6a6b27}
@@ -44,11 +44,11 @@ From the AADInternals Documentation:<br />
 "
 Get-AADIntConditionalAccessPolicies (A)
 
-\# List the conditional access policies<br />
+/# List the conditional access policies<br />
 Get-AADIntConditionalAccessPolicies
 "<br />
 Run the second command i.e. **Get-AADIntConditionalAccessPolicies**. Check displayName property for the flag
-![Alt text](/assets\CTFs-main\HuntressCTF\M Three Sixty Five\Conditional_Access_flag.png)
+![Alt text](/assets/CTFs-main/HuntressCTF/M Three Sixty Five/Conditional_Access_flag.png)
 
 flag{d02fd5f79caa273ea535a526562fd5f7}
 
@@ -63,11 +63,11 @@ From the AADInternals Documentation:<br />
 "
 Get-AADIntTeamsMessages (T)
 
-\# Get Teams messages<br />
+/# Get Teams messages<br />
 Get-AADIntTeamsMessages | Format-Table id,content,deletiontime,*type*,DisplayName
 "<br />
 Running the above command, you get the flag.
-![Alt text](/assets\CTFs-main\HuntressCTF\M Three Sixty Five\Teams_flag.png)
+![Alt text](/assets/CTFs-main/HuntressCTF/M Three Sixty Five/Teams_flag.png)
 
 
 flag{f17cf5c1e2e94ddb62b98af0fbbd46e1}
@@ -81,16 +81,16 @@ One of the users in this environment seems to have unintentionally left some inf
 ### Solution
 From the AADInternals Documentation:<br />
 "
-\# Get users<br />
+/# Get users<br />
 Get-AADIntUsers | Select UserPrincipalName,ObjectId,ImmutableId
 
-\# Get user information<br />
+/# Get user information<br />
 Get-AADIntUser -UserPrincipalName "LeeG@company.com"
 
 "<br />
 
 We use the above commands to get the users of the tenant then view user information of each user for a flag.
-![Alt text](/assets\CTFs-main\HuntressCTF\M Three Sixty Five\The_President_flag1.png)
-![Alt text](/assets\CTFs-main\HuntressCTF\M Three Sixty Five\The_President_flag2.png)
+![Alt text](/assets/CTFs-main/HuntressCTF/M Three Sixty Five/The_President_flag1.png)
+![Alt text](/assets/CTFs-main/HuntressCTF/M Three Sixty Five/The_President_flag2.png)
 
 flag{1e674f0dd1434f2bb3fe5d645b0f9cc3}
