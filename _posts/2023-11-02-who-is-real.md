@@ -15,7 +15,7 @@ Play a game to train yourself on identifying what stands out for AI generated pe
 
 ## Solution
 This challenge was a tricky one at first as deciding which image is real and which is fake by looking is not easy. However,to get the flag, just click all images that are on the right.
-![Alt text](assets\CTFs-main\HuntressCTF\Who is Real\flag.png)
+![Alt text](/assets\CTFs-main\HuntressCTF\Who is Real\flag.png)
 
 
 flag{10c0e4ed5fcc3259a1b0229264961590}
