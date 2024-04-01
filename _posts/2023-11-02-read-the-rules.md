@@ -2,7 +2,7 @@
 layout: post
 title: Read The Rules
 date: 2023-11-02 14:42 +0300
-categories: [HuntressCTF, Read The Rules]
+categories: [Capture The Flag (CTF), HuntressCTF]
 tags: [huntressctf,ctf]
 ---
 ## Question

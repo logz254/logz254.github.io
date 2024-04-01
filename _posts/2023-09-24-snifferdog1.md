@@ -2,7 +2,7 @@
 layout: post
 title: SnifferDog1
 date: 2023-09-24 16:15 +0300
-categories: [SheHacks Intervarsity CTF, SnifferDog1]
+categories: [Capture The Flag (CTF), SheHacks Intervarsity CTF(AspireCTF)]
 tags: [forensics,ctf,wireshark,shehacks]
 ---
 ## Question
