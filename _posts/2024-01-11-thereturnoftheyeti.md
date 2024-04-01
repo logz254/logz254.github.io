@@ -2,7 +2,7 @@
 layout: post
 title: TheReturnoftheYeti
 date: 2024-01-11 22:53 +0300
-categories: [TryHackMe, TheReturnoftheYeti]
+categories: [TryHackMe, Advent of Cyber (AoC) 2023 Side Quest]
 tags: [aoc,tryhackme,wirehack,forensics,aircrack-ng,wpa,cyberchef,pyrdp-player]
 ---
 ## Introduction
